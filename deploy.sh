@@ -1,6 +1,4 @@
 #!/bin/bash
-
-# TODO your deploy script implementation...
 set -e
 
 echo ""
