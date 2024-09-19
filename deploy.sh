@@ -20,7 +20,7 @@ source venv/bin/activate
 echo ""
 echo "Install Python dependencies..."
 echo "--------------------------------"
-pip install -r requirements.txt
+pip install flask
 
 echo ""
 echo "Starting the Python application..."
